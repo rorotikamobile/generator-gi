@@ -1,0 +1,21 @@
+{
+  "name": "generator-gi",
+  "version": "0.0.1",
+  "description": "A yeoman generator for .gitignore files, sourcing from http://www.gitignore.io.",
+  "keywords": [
+    "yeoman-generator",
+    "git",
+    "gitignore"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@code.frootnip.com:yo/generator-rorweb"
+  },
+  "author": "Marlo Vlietstra",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.40.0",
+    "underscore": "^1.6.0",
+    "yeoman-generator": "^0.17.2"
+  }
+}
