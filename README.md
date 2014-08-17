@@ -28,4 +28,4 @@ Create or add gitignore templates to a .gitignore file.
 ###Credits
 ----------
 
-Thanks to [gitignore.io](http://www.gitignore.io) for hosting such an awesome and thanks to [yeoman](http://yeoman.io/) for making such an awesome tool.
+Thanks to [gitignore.io](http://www.gitignore.io) for hosting such an awesome service and thanks to [yeoman](http://yeoman.io/) for making such an awesome tool.
