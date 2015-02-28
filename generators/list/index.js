@@ -10,7 +10,7 @@ module.exports = yeoman.generators.Base.extend({
             generator = this;
 
 
-        request('http://www.gitignore.io/dd.json', function(err, res, body) {
+        request('https://www.gitignore.io/dropdown/templates.json', function(err, res, body) {
             if (requestHelper.canAccess(err, res, generator.log)) {
                 var templates = JSON.parse(body),
                     shouldSearch = generator.arguments.length > 0,
